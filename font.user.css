@@ -1,0 +1,17 @@
+/**
+* @name Amadal's font setter for Vesktop
+* @author Amadaluzia
+* @version 0.0.1
+* @description This probably isn't for you since this is going to be changed often to reflect my colour scheme changes.
+* @source https://codeberg.org/amadaluzia/discord-font-css
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght,CASL,CRSV,MONO@300..1000,1,1,0..1&display=swap');
+@import url("https://raw.githubusercontent.com/iosevka-webfonts/iosevka/main/iosevka.css");
+
+:root {
+  --font-primary: "Recursive", sans-serif;
+  --font-display: "Recursive", sans-serif;
+  --font-code: "Iosevka Web", monospace;
+}
+
